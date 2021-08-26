@@ -1,3 +1,7 @@
+# Autonomous Mobility on Demand (AMoD) Simulation
+A MATLAB programme to simulate the effects of competition between multiple AMoD operators.  
+Credit to Jenny Zhang's BEng individual project - Competition between Smart Mobility Platforms.
+
 ## Packages used
 - MATLAB
 - YALMIP
