@@ -1,0 +1,10 @@
+# generated matlab files and draft work
+draft*
+*.asv
+*.mat
+
+# downloaded data
+TransportationNetworks/
+
+# generated results
+results*
